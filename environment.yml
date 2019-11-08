@@ -1,0 +1,32 @@
+name: deeplearn_course
+
+
+channels:
+
+  - pytorch
+
+dependencies:
+
+  # basic
+  - python=3.7
+  - numpy
+  - mkl
+  - ipython
+  - jupyter
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - networkx
+  - seaborn
+
+  # deep learning
+  - pytorch
+#  - tensorflow
+#  - keras
+
+  - Pillow # module PIL for RL
+
+  - pip:
+    - gym # openAI
+    - torchvision # pytorch
