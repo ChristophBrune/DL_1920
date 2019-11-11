@@ -3,21 +3,8 @@ Deep Learning Course, University of Twente
 
 ## DL_19/20: Deep Learning - From Theory to Practice <br> Christoph Brune
    
-<br>
-<br>
+This repository contains the programming exercises for the Deep Learning course of 2019/2020.
    
-## Python notebooks of the course
-
-[Jypyter Online Repository - Binder](https://mybinder.org/v2/gh/ChristophBrune/DL_1819/master)
-
-[3 Tutorial: Introduction to Python, MLP and Backpropagation](https://github.com/ChristophBrune/DL_1819/tree/master/codes/1_tutorial)
-
-[9 Tutorial: CNN and RNN](https://github.com/ChristophBrune/DL_1819/tree/master/codes/9_tutorial)
-
-[12 Tutorial: VAEs and GANs](https://github.com/ChristophBrune/DL_1819/tree/master/codes/12_tutorial)
-
-<br>
-
 ## Introduction to Colab
 During this course we will be using [Google Colab](https://colab.research.google.com/) for the programming exercises. Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. Its main advantage is that Colab offers the possibility to run your code on high-end GPU's which are well suited for Deep Learning models and can speed up your programs significantly. Also, most of the Python packages that we will be using are already installed in this environment. 
 
