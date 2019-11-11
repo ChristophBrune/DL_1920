@@ -47,16 +47,6 @@ Follow the following instructions to install Miniconda and create a Python envir
 1. Start Jupyter with `jupyter notebook`. The command opens a new tab in your web browser.
 1. Go to the exercise folder, for example `DL_1920/codes/1_tutorial/lab01_python`.
 
-
-	Notes:<br> 
-      Windows: Folder DL_1819 is located at `C:\Users\user_name\DL_1920`. MacOS, Linux: `/Users/user_name/DL_1819`.<br>
-
-
-
-
-
-
-
 [python]: https://www.python.org
 [scipy]: https://www.scipy.org
 [anaconda]: https://anaconda.org
